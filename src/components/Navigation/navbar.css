@@ -1,0 +1,22 @@
+.navBarBox{
+    height: 10vh;
+    width: 100%;
+    background-color: #ea1538;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.navBarLeft{
+flex: 3;
+
+}
+
+.navBarCenter{
+flex: 5;
+}
+
+.navBarRight{
+flex: 4;
+}
