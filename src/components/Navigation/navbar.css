@@ -29,6 +29,7 @@ color: black;
 }
 
 .navBarIcon{
+    margin-top: 25%;
     margin-left: 50%;
 }
 
@@ -67,5 +68,27 @@ color: black;
     border-radius: 30px;
     display: flex;
     align-items: center;
+}
+
+.searchIcon{
+    margin-left: 2%;
+}
+
+.searchInput{
+    border: none;
+    outline: none;
+    width: 80%;
+}
+
+.icanTag{
+    width: 10%;
+    height: 5%;
+    background-color: black;
+    color: white;
+    position: relative;
+    border-radius: 50%;
+    /* display: flex; */
+    top: -39px;
+    left: 25px;
 }
 
